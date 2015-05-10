@@ -61,7 +61,7 @@ Java 程序有两类注释：实现注释(implementation comments)和文档注�
 
 # 参考
 android代码贡献者的编程风格指南  
-中文翻译:
-http://blog.sina.com.cn/s/blog_48d491300100zwzg.html#dont-ignore-exceptions
-英文原版:
+中文翻译:  
+http://blog.sina.com.cn/s/blog_48d491300100zwzg.html#dont-ignore-exceptions  
+英文原版:  
 http://source.android.com/source/code-style.html
