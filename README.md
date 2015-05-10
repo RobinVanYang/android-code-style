@@ -66,7 +66,7 @@ http://blog.sina.com.cn/s/blog_48d491300100zwzg.html
 英文原版:  
 http://source.android.com/source/code-style.html  
 
-**小驼峰式命名法(lower camel case)**:    
+小驼峰式命名法(lower camel case):    
 第一个单字以小写字母开始；第二个单字的首字母大写，例如：firstName、lastName。  
-**大驼峰式命名法(upper camel case):**  
+大驼峰式命名法(upper camel case):  
 每一个单字的首字母都采用大写字母，例如：FirstName、LastName、CamelCase。  
