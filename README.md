@@ -48,7 +48,7 @@ layout文件命名, 全部用小写字母， 单词与单词之间用下划线�
     如用在activity或fragment中, 则以activity_  fragment_开头
     如用在list的adapter中, 以listitem_开头
     如果是单独的被include的layout, 以该文件的具体用途命名
-id的命名以 控件缩写+下划线+控件用途 来命名
+id的命名以 控件缩写+下划线+控件用途 来命名  
 java代码中控件的命名, 以 view缩写+下划线+控件用途 来命名
 
 
