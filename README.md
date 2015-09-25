@@ -56,7 +56,7 @@ java代码中控件的命名, 以 view缩写+控件用途 来命名
 ####注释
 Java 程序有两类注释：实现注释(implementation comments)和文档注释(document comments).  
 实现注释是使用/**...**/和//界定的注释.  
-文档注释(被称为"doc comments")由/**...**/界定。文档注释可以通过javadoc工具转换成HTML 文件。
+文档注释(被称为"doc comments")由/\*...\*/界定。文档注释可以通过javadoc工具转换成HTML 文件。
 
 
 # 参考
